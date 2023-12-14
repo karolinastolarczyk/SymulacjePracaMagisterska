@@ -143,7 +143,7 @@ plot(x_pweibull1000, v1000, pch="_", col="blue", xlab="x", ylab="F(x)")
 legend(50, 0.8, legend=c("Dystrybuanta K1000 "),
        col=c( "blue"), lty=1:2, cex=0.6)
 plot(x_pweibull10000, v10000, pch="_", col="blue", xlab="x", ylab="F(x)")  
-legend(500, 0.8, legend=c("Dystrybuanta K10000 "),
+legend(4500, 0.4, legend=c("Dystrybuanta K10000 "),
        col=c( "blue"), lty=1:2, cex=0.6)
 plot(x_pweibull100000, v100000, pch="_", col="blue", xlab="x", ylab="F(x)")  
 legend(5000, 0.8, legend=c("Dystrybuanta K100000 "),
